@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-project01" />
+        <module name="ExcelTest" />
+        <module name="springboot-web-test" />
+        <module name="tomcat_demo1" />
+        <module name="tomcat_demo" />
+        <module name="maven-projectA" />
+        <module name="maven-projectB" />
+        <module name="maven-projectC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tomcat" target="1.8" />
+      <module name="tomcat-demo1" target="1.8" />
+      <module name="tomcat11" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-web-test" options="-parameters" />
+    </option>
+  </component>
+</project>

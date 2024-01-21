@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="RestController" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/tomcat_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcat_demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/../Web_Project/springboot-web-quickstart/springboot-web-quickstart" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tomcat_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat_demo1/pom.xml" />
+        <option value="D:/LearnData/JavaWeb基础/2023javaWeb资料/day04-Maven-SpringBootWeb入门/代码/maven-project01/pom.xml" />
+        <option value="D:/LearnData/JavaWeb基础/2023javaWeb资料/day04-Maven-SpringBootWeb入门/代码/maven-projectA/pom.xml" />
+        <option value="D:/LearnData/JavaWeb基础/2023javaWeb资料/day04-Maven-SpringBootWeb入门/代码/maven-projectB/pom.xml" />
+        <option value="D:/LearnData/JavaWeb基础/2023javaWeb资料/day04-Maven-SpringBootWeb入门/代码/maven-projectC/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web-test/springboot-web-test/pom.xml" />
+        <option value="D:/LearnData/ExcelTest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

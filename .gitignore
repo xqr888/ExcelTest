@@ -1,0 +1,3 @@
+# Project exclude paths
+/springboot-web-test/springboot-web-test/target/
+/tomcat_demo/target/
